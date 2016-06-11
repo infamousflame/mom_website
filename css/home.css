@@ -1,15 +1,25 @@
-.center{
-  color:white;
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800);
+h1{
+  font-weight: 800;
 }
-header h1, p{
-  padding:20px;
-  color: white;
+header{
+  background-image: url("../img/banner.png");
+  height: 600px;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  background-size: cover;
+  background-position: 0 -99px;
 }
-*{
-  background-color: grey;
+header .col-xs-4{
+  background-color: rgba(128, 128, 128, .5);
+  margin-top: 10%;
+  padding:10px;
   text-align: center;
+  color: lightgrey;
 }
-.left h1{
-  color:  #ffff00;
-  font-family: Arial;
+section h2{
+  padding-left: 20px;
+}
+.trifecta{
+  background-color: 
 }
