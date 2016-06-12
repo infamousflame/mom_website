@@ -1,14 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800);
-h1{
-  font-weight: 800;
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100);
+
+h2{
+  font-family: 'Lato', sans-serif !important;
+  font-weight: 100 !important;
 }
 header{
   background-image: url("../img/banner.png");
-  height: 600px;
+  height: 100vh;
+  background-position: top;
+  background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Open Sans', sans-serif;
+  text-align: center;
   background-size: cover;
-  background-position: 0 -99px;
 }
 header .col-xs-4{
   background-color: rgba(128, 128, 128, .5);
@@ -17,9 +20,42 @@ header .col-xs-4{
   text-align: center;
   color: lightgrey;
 }
+section{
+  height: 600px;
+}
 section h2{
-  padding-left: 20px;
+  padding-left: 30px;
+  padding-top: 44px;
+
 }
 .trifecta{
-  background-color: 
+  background: url("../img/banner.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.color{
+  background-color: rgba(193, 128, 255, .7);
+  height: 600px;
+}
+h2{
+  margin: 0;
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+}
+.trifecta p{
+  margin: 0px;
+  padding: 147px 39px;
+  font-size: 20px;
+}
+.trifecta img{
+  padding: 89px 32px;
+}
+.health{
+  background-color: lightgrey;
+}
+.way{
+
 }
