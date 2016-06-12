@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,100);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100);
 
 h2{
   font-family: 'Lato', sans-serif !important;
@@ -50,16 +50,16 @@ h2{
   padding: 147px 39px;
   font-size: 20px;
   font-family: 'Lato', sans-serif !important;
-  font-weight: 200 !important;
+  font-weight: 300 !important;
   color: white;
 }
 .col-xs-6:first-child{
   margin: 0px;
   padding: 150px 53px;
   font-family: 'Lato', sans-serif !important;
-  font-weight: 200 !important;
+  font-weight: 300 !important;
   color: white;
-  font-size: 18px;
+  font-size: 20px;
 }
 .col-xs-6:last-child{
   padding-top: 100px;
