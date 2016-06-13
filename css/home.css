@@ -5,7 +5,7 @@ h2{
   font-weight: 100 !important;
 }
 header{
-  background-image: url("../img/banner.png");
+  background-image: url("../img/dome.png");
   height: 100vh;
   background-position: top;
   background-repeat: no-repeat;
@@ -63,7 +63,6 @@ h2{
 }
 .col-xs-6:last-child{
   padding-top: 100px;
-
 }
 .trifecta img{
   padding: 89px 32px;
@@ -81,4 +80,7 @@ h2{
 .biography{
   background-image: url("https://www.unsplash.it/1920/1088/?image=120");
   background-attachment: fixed;
+}
+.embed_form label, .paper-form label{
+  color: white;
 }
