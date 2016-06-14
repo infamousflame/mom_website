@@ -12,7 +12,7 @@ header{
   background-size: cover;
   background-attachment: fixed;
 }
-header .col-xs-4{
+header .col-md-4{
   background-color: rgba(128, 128, 128, .5);
   margin-top: 10%;
   padding:10px;
@@ -20,7 +20,7 @@ header .col-xs-4{
   color: lightgrey;
 }
 section{
-  height: 600px;
+  /*height: 600px;*/
 }
 section h2{
   padding-left: 30px;
@@ -36,7 +36,7 @@ section h2{
 }
 .color{
   background-color: rgba(193, 128, 255, .7);
-  height: 600px;
+  /*height: 600px;*/
 }
 h2{
   margin: 0;
@@ -44,7 +44,7 @@ h2{
   color: white;
   font-size: 50px;
 }
-.col-xs-8 p{
+.col-md-8 p{
   margin: 0px;
   padding: 147px 39px;
   font-size: 20px;
@@ -52,7 +52,7 @@ h2{
   font-weight: 300 !important;
   color: white;
 }
-.col-xs-6:first-child{
+.col-md-6:first-child{
   margin: 0px;
   padding: 150px 53px;
   font-family: 'Muli', sans-serif !important;
@@ -60,8 +60,8 @@ h2{
   color: white;
   font-size: 20px;
 }
-.col-xs-6:last-child{
-  padding-top: 100px;
+.col-md-6:last-child{
+  padding-top: 140px;
 }
 .trifecta img{
   padding: 89px 32px;
@@ -73,7 +73,7 @@ h2{
 }
 .color2{
   background-color: rgba(128, 128, 128, .7);
-  height:600px;
+  /*height:600px;*/
 }
 
 .biography{
