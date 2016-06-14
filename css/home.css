@@ -100,3 +100,16 @@ h2{
 .contact ul li a{
   color: inherit;
 }
+@media(max-width:650px){
+  h2{
+    font-size:40px;
+  }
+  .col-md-6:first-child{
+    padding: 54px;
+    padding-bottom: 1px;
+  }
+  .col-md-6:last-child{
+    padding-top: 0;
+    padding: 60px;
+  }
+}
