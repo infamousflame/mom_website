@@ -83,11 +83,15 @@ h2{
 .embed_form label, .paper-form label{
   color: white;
 }
+.contact p:last-of-type{
+  padding-top:10px;
+}
 .contact ul li{
   display: inline;
 }
 .contact ul{
   padding: 0;
+  padding-top: 10px;
 }
 .contact ul li:nth-child(n + 2){
   padding-left: 80px;
