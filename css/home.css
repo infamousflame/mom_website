@@ -5,13 +5,13 @@ h2{
   font-weight: 100;
 }
 header{
-  background-image: url("../img/dome.png");
+  background-image: url("../img/IMG_7891.png");
   height: 100vh;
-  background-position: top;
   background-repeat: no-repeat;
   text-align: center;
   background-size: cover;
   background-attachment: fixed;
+  background-position: 0vw -12vh;
 }
 header .col-md-4{
   background-color: rgba(128, 128, 128, .5);
@@ -68,8 +68,9 @@ h2{
   padding: 89px 32px;
 }
 .health{
-  background-image: url("https://www.unsplash.it/1920/1088/?random");
+  background-image: url("../img/IMG_7890.JPG");
   background-attachment: fixed;
+  background-position: 0px -33vh;
 
 }
 .color2{
@@ -78,8 +79,9 @@ h2{
 }
 
 .biography{
-  background-image: url("https://www.unsplash.it/1920/1088/?image=120");
+  background-image: url("../img/Christine-9998E.jpg");
   background-attachment: fixed;
+  background-position: -49vw -29vh;
 }
 .embed_form label, .paper-form label{
   color: white;
